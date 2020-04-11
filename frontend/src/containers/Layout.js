@@ -10,7 +10,7 @@ const CustomLayout = (props) => {
             <Header>
                 <div className="logo" />
                 <Menu 
-                    class='navagation' 
+                    className='navagation' 
                     theme="dark" 
                     mode="horizontal" 
                     defaultSelectedKeys={['2']} 
